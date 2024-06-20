@@ -1,14 +1,12 @@
 {
   "name": "super-simple-vercel-redirect",
-  "module": "index.ts",
-  "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
-  "dependencies": {
-    "public": "^0.1.5"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
